@@ -1,3 +1,12 @@
+#
+# File: XOR.py
+# Author: TiDz
+# Contact: nguyentinvs123@gmail.com
+# Created on Sun Sep 28 2025
+# Description: 
+# Useage: 
+#
+
 from pwn import *
 
 s = "label"
